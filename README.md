@@ -125,8 +125,8 @@ sniffer/
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/max22-ux/Mini-IDS.git
-cd Mini-IDS
+git clone https://github.com/max22-ux/-Mini-IDS.git
+cd -Mini-IDS
 ```
 
 Instalar las dependencias:
